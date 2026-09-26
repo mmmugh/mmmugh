@@ -4,8 +4,9 @@
 Most of my work isn't public. The throughline that is: I look for the gap between what a
 system is *supposed* to do and what it can be *made* to do.
 
-**Contributed →** [MobSF #2640](https://github.com/MobSF/Mobile-Security-Framework-MobSF/pull/2640),
-detection of known secret formats in Android and iOS string analysis, merged upstream.
+**Contributed →** [MobSF #2640](https://github.com/MobSF/Mobile-Security-Framework-MobSF/pull/2640):
+Amazon Login with Amazon credential detection, validated against real apps, which MobSF's creator
+built into the shared secret detector that shipped.
 [MTPLX #120](https://github.com/youssofal/MTPLX/pull/120), per-position presence and frequency
 penalties matching vLLM, merged.
 
